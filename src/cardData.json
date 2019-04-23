@@ -1,0 +1,1694 @@
+{
+  "sets": [
+    "All",
+    "Base",
+    "Rainbow Sprinkles",
+    "NSFW",
+    "Dragons",
+    "Apocalypse",
+    "Control",
+    "Chaos"
+  ],
+  "data": [
+    {
+      "text": "When this card enters your Stable, SACRIFICE a Unicorn card. If this card is in your Stable at the beginning of your turn, you may SACRIFICE an Upgrade card in your Stable, then DESTROY 2 Unicorn cards.",
+      "set": "Chaos",
+      "name": "The Reaper Unicorn",
+      "file": "images/The_Reaper_Unicorn.png"
+    },
+    {
+      "text": "Choose any player. Return all cards in that player's Stable to that player's hand, then immediately bring the same cards directly into that player's Stable.",
+      "set": "Control",
+      "name": "Time Rift",
+      "file": "images/Time_Rift.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 2 cards. If this card is in your Stable at the beginning of your turn, you may look at the top 3 cards of the deck, then return them in any order.",
+      "set": "Control",
+      "name": "Time-Shifting Unicorn",
+      "file": "images/Time-Shifting_Unicorn.png"
+    },
+    {
+      "text": "Each time you play a Unicorn card from your hand, DISCARD a card.",
+      "set": "Chaos",
+      "name": "Tollbooth",
+      "file": "images/Tollbooth.png"
+    },
+    {
+      "text": "DRAW a card, then play 2 cards from your hand. Skip your next turn.",
+      "set": "Control",
+      "name": "Totally Not Two Unicorns",
+      "file": "images/Totally_Not_Two_Unicorns.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may move an Upgrade or Downgrade card from any player's Stable to any other player's Stable. If you do, skip your Action phase.",
+      "set": "Control",
+      "name": "Traffic Director Unicorn",
+      "file": "images/Traffic_Director_Unicorn.png"
+    },
+    {
+      "text": "Play this card when any other player tries to DRAW a card. Stop that player from drawing the card. That player must DISCARD a card instead.",
+      "set": "Chaos",
+      "name": "Trapped Chest",
+      "file": "images/Trapped_Chest.png"
+    },
+    {
+      "text": "When any other player plays a Unicorn card, you may SACRIFICE this card. If you do, STEAL that Unicorn card.",
+      "set": "Control",
+      "name": "Trojan Unicorn",
+      "file": "images/Trojan_Unicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, play 2 cards during your Action phase.",
+      "set": "Control",
+      "name": "Twin Unicorns",
+      "file": "images/Twin_Unicorns.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, shuffle a Unicorn card from your Stable into the deck, then DRAW a card. If at any time you have no Unicorn cards in your Stable, SACRIFICE this card.",
+      "set": "Control",
+      "name": "Unicorn Abduction",
+      "file": "images/Unicorn_Abduction.png"
+    },
+    {
+      "text": "If you have two or more Basic Unicorn cards in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.",
+      "set": "Control",
+      "name": "Unicorn Adoption Agency",
+      "file": "images/Unicorn_Adoption_Agency.png"
+    },
+    {
+      "text": "Choose any other player and look at that player's hand. Choose 2 cards from that player's hand and add them to your hand. That player may look at your hand and choose a card from it to add to their hand. That player may not choose either card you chose.",
+      "set": "Control",
+      "name": "Unicorn Black Market",
+      "file": "images/Unicorn_Black_Market.png"
+    },
+    {
+      "text": "If one of your Unicorn cards would be sacrificed or destroyed, you may SACRIFICE an Upgrade or Downgrade card instead.",
+      "set": "Control",
+      "name": "Unicorn Bribe",
+      "file": "images/Unicorn_Bribe.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards. If you do, SACRIFICE or DESTROY a card.",
+      "set": "Control",
+      "name": "Unicorn Mafia",
+      "file": "images/Unicorn_Mafia.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may DESTROY a Unicorn card. If this card would be destroyed by any other player's card, that player may STEAL it instead.",
+      "set": "Chaos",
+      "name": "Unicorn of Betrayal",
+      "file": "images/Unicorn_of_Betrayal.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DRAW an extra card. If you do, each other player may DRAW a card.",
+      "set": "Control",
+      "name": "Unicorn of Charity",
+      "file": "images/Unicorn_of_Charity.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE a Unicorn card. If one of your Unicorn cards would be destroyed, you may SACRIFICE an Upgrade or Downgrade card instead.",
+      "set": "Control",
+      "name": "Unicorn of Conniving Artistry",
+      "file": "images/Unicorn_of_Conniving_Artistry.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE a Unicorn card. When any player plays an Upgrade card in their Stable, you may DISCARD a card. If you do, search the deck for a Downgrade card and bring it directly into that player's Stable. Shuffle the deck.",
+      "set": "Chaos",
+      "name": "Unicorn of Foreboding Doom",
+      "file": "images/Unicorn_of_Foreboding_Doom.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD a card. When any other player plays a Downgrade card in your Stable, search the deck for an Upgrade card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Control",
+      "name": "Unicorn of Glory",
+      "file": "images/Unicorn_of_Glory.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD 2 cards. If this card is in your Stable at the beginning of your turn, each other player must DISCARD a card.",
+      "set": "Chaos",
+      "name": "Unicorn of Misfortune",
+      "file": "images/Unicorn_of_Misfortune.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may look at the top 2 cards of the deck and return them in the same order.",
+      "set": "Control",
+      "name": "Unicorn Prophet",
+      "file": "images/Unicorn_Prophet.png"
+    },
+    {
+      "text": "Each time you DRAW a least 1 card, DISCARD a card.",
+      "set": "Control",
+      "name": "Unicorn Tax",
+      "file": "images/Unicorn_Tax.png"
+    },
+    {
+      "text": "\"We're not lost! We're on an adventure!\"",
+      "set": "Control",
+      "name": "Unicorn Tourist",
+      "file": "images/Unicorn_Tourist.png"
+    },
+    {
+      "text": "STEAL a Unicorn card.",
+      "set": "Control",
+      "name": "Unicorn Trap",
+      "file": "images/Unicorn_Trap.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may DISCARD a card. If you do, bring a DOWNGRADE card from your hand directly into any player's Stable.",
+      "set": "Control",
+      "name": "Unicorn Trap Master",
+      "file": "images/Unicorn_Trap_Master.png"
+    },
+    {
+      "text": "Shuffle the discard pile into the deck. Search the deck for a Unicorn card and bring that card directly into your Stable. Each other player may DRAW a card. Shuffle the deck.",
+      "set": "Control",
+      "name": "Unicorns Forever",
+      "file": "images/Unicorns_Forever.png"
+    },
+    {
+      "text": "DRAW cards until you reach your hand limit. Each other player may DRAW 2 cards.",
+      "set": "Control",
+      "name": "Unicornucopia",
+      "file": "images/Unicornucopia.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a card. Stop that card from coming into play, then add it to the top of the deck.",
+      "set": "Control",
+      "name": "Unwind and Rewind",
+      "file": "images/Unwind_and_Rewind.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE a Unicorn card. If this card is in your Stable at the beginning of your turn, you may SACRIFICE a Unicorn card. If you do, bring a Unicorn card from the discard pile directly into your Stable.",
+      "set": "Chaos",
+      "name": "Valkyrie Unicorn",
+      "file": "images/Valkyrie_Unicorn.png"
+    },
+    {
+      "text": "Hold the relish!",
+      "set": "Control",
+      "name": "Weeniecorn",
+      "file": "images/Weeniecorn.png"
+    },
+    {
+      "text": "DISCARD a card, then DRAW 3 cards.",
+      "set": "Control",
+      "name": "Wishing Well",
+      "file": "images/Wishing_Well.png"
+    },
+    {
+      "text": "This card cannot be Neigh'd.",
+      "set": "Control",
+      "name": "Wrecking Ball Unicorn",
+      "file": "images/Wrecking_Ball_Unicorn.png"
+    },
+    {
+      "text": "STEAL an Upgrade or Downgrade card.",
+      "set": "Control",
+      "name": "Yoink!",
+      "file": "images/Yoink!.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards. If you do, you may choose to either DESTROY a Unicorn card OR search the deck for a Unicorn card and add it to your hand.",
+      "set": "Control",
+      "name": "Controlled Chaos",
+      "file": "images/Controlled_Chaos.png"
+    },
+    {
+      "text": "DESTROY a card in any player's Stable without triggering any of it's triggered effects.",
+      "set": "Control",
+      "name": "Controlled Destruction",
+      "file": "images/Controlled_Destruction.png"
+    },
+    {
+      "text": "Insert corny pun here.",
+      "set": "Control",
+      "name": "Corn On The Cob",
+      "file": "images/Corn_On_The_Cob.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Demonic Baby Unicorn",
+      "file": "images/Demonic_Baby_Unicorn.png"
+    },
+    {
+      "text": "Play this card with any other player tries to play an Upgrade or Downgrade card. Choose the Stable that card enters.",
+      "set": "Control",
+      "name": "Destabilize",
+      "file": "images/Destabilize.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may return all Baby Unicorn cards in each player's Stable to the Nursery.",
+      "set": "Control",
+      "name": "Dingocorn",
+      "file": "images/Dingocorn.png"
+    },
+    {
+      "text": "Each time a player would DISCARD a card, that player must DISCARD 2 cards instead.",
+      "set": "Control",
+      "name": "Dread Pirate Unicorn",
+      "file": "images/Dread_Pirate_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 2 Unicorn cards. No other player may play Neigh cards. This card cannot be Neigh'd.",
+      "set": "Control",
+      "name": "Elusive Oceloticorn",
+      "file": "images/Elusive_Oceloticorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 2 Unicorn cards. Each time you DESTROY a card, you may DESTROY a second card.",
+      "set": "Chaos",
+      "name": "Epic Level Unicorn",
+      "file": "images/Epic_Level_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may DISCARD a card. If you do, bring an UPGRADE card from your hand directly into your Stable.",
+      "set": "Control",
+      "name": "Excited Sealicorn",
+      "file": "images/Excited_Sealicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards. If you do, SACRIFICE or DESTROY a card.",
+      "set": "Control",
+      "name": "Extra Life",
+      "file": "images/Extra_Life.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may look at the top 3 cards of the deck. If you do, add one of them to your hand, then shuffle the other 2 back into the deck and skip your Draw phase.",
+      "set": "Control",
+      "name": "Foresight",
+      "file": "images/Foresight.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may look at the top 3 cards of the deck. Move any number of those cards to the discard pile, then return the rest to the top of the deck in any order.",
+      "set": "Control",
+      "name": "Fortune Teller Unicorn",
+      "file": "images/Fortune_Teller_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose any player. That player must shuffle their hand into the deck, then DRAW 3 cards.",
+      "set": "Control",
+      "name": "Foxicorn",
+      "file": "images/Foxicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD a card. When any other player tries to play a card, you may SACRIFICE this card. If you do, add that card to your hand instead, then immediately play it.",
+      "set": "Chaos",
+      "name": "Frankencorn",
+      "file": "images/Frankencorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD your hand. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card. Your hand limit increases by 3 cards.",
+      "set": "Control",
+      "name": "Game Master Unicorn",
+      "file": "images/Game_Master_Unicorn.png"
+    },
+    {
+      "text": "Each time a Downgrade card enters your Stable, you may search for an Upgrade card and bring it directly into your Stable.",
+      "set": "Control",
+      "name": "Glass Half Full",
+      "file": "images/Glass_Half_Full.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may search the deck for an Upgrade card and bring it directly into your Stable. If you do, each other player may DRAW a card. Shuffle the deck.",
+      "set": "Control",
+      "name": "Goldren Retrievercorn",
+      "file": "images/Goldren_Retrievercorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD 3 cards. If you do, SACRIFICE this card. If you don't, move a Unicorn card from your Stable to any other player's Stable.",
+      "set": "Control",
+      "name": "Greener Pastures",
+      "file": "images/Greener_Pastures.png"
+    },
+    {
+      "text": "SACRIFICE a Baby Unicorn card, then search the deck for a Unicorn card and bring it directly into your Stable.",
+      "set": "Control",
+      "name": "Grow Up",
+      "file": "images/Grow_Up.png"
+    },
+    {
+      "text": "When any other player tries to trigger a Unicorn card effect, you may DISCARD a card. If you do, stop that effect from triggering.",
+      "set": "Control",
+      "name": "Hypnocorn",
+      "file": "images/Hypnocorn.png"
+    },
+    {
+      "text": "If you have a Baby Unicorn card in your Stable, you need 1 fewer Unicorn to win.",
+      "set": "Control",
+      "name": "Imaginary Friendicorn",
+      "file": "images/Imaginary_Friendicorn.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a Unicorn card. Bring a Basic Unicorn card from your hand directly into your Stable.",
+      "set": "Control",
+      "name": "Imitation",
+      "file": "images/Imitation.png"
+    },
+    {
+      "text": "Play this card when any other player tries to SACRIFICE a card. Stop the sacrifice effect and choose any player. SACRIFICE or DESTROY a card in that player's Stable.",
+      "set": "Chaos",
+      "name": "Intervention",
+      "file": "images/Intervention.png"
+    },
+    {
+      "text": "DISCARD a card, then search the discard pile for a Unicorn card and bring it directly into your Stable.",
+      "set": "Chaos",
+      "name": "Kittencorn Burglar",
+      "file": "images/Kittencorn_Burglar.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may move a Unicorn card from the Stable with the most Unicorns to the Stable with the fewest Unicorns.",
+      "set": "Control",
+      "name": "Lady Justice Unicorn",
+      "file": "images/Lady_Justice_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.",
+      "set": "Control",
+      "name": "Mama Unicorn",
+      "file": "images/Mama_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 2 cards. If this card is in your Stable at the beginning of your turn, you may choose a card from the discard pile and add it to your hand. If you do, skip your Draw phase.",
+      "set": "Chaos",
+      "name": "Manticore Unicorn",
+      "file": "images/Manticore_Unicorn.png"
+    },
+    {
+      "text": "Each player must pass their hand to the player on their left.",
+      "set": "Control",
+      "name": "Merry-Go-Round",
+      "file": "images/Merry-Go-Round.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Million Dollar Baby Unicorn",
+      "file": "images/Million_Dollar_Baby_Unicorn.png"
+    },
+    {
+      "text": "If this card is sacrificed or destroyed, each player must SACRIFICE a card.",
+      "set": "Control",
+      "name": "Mutually Assured Destructicorn",
+      "file": "images/Mutually_Assured_Destructicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may bring a Baby Unicorn card from the Nursery directly into your Stable. If you do, do not play a card from your hand during your Action phase.",
+      "set": "Control",
+      "name": "Nannycorn",
+      "file": "images/Nannycorn.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.",
+      "set": "Control",
+      "name": "Neigh - Angelic",
+      "file": "images/Neigh_-_Angelic.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.",
+      "set": "Control",
+      "name": "Neigh - Demonic",
+      "file": "images/Neigh_-_Demonic.png"
+    },
+    {
+      "text": "When this card enters your Stable, name a type of card. If this card is in your Stable at the beginning of your turn, you may bring a card of that type from the discard pile directly into your Stable, then immediately end your turn.",
+      "set": "Chaos",
+      "name": "Nightmare Pact",
+      "file": "images/Nightmare_Pact.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 3 cards. If this card is in your Stable at the beginning of your turn, you may choose a Unicorn card from the discard pile and bring it directly into your Stable.",
+      "set": "Chaos",
+      "name": "Nightmare Unicorn",
+      "file": "images/Nightmare_Unicorn.png"
+    },
+    {
+      "text": "DISCARD a card, then search the discard pile for 2 cards and add them to your hand.",
+      "set": "Chaos",
+      "name": "Nightmare's Conjuring",
+      "file": "images/Nightmare's_Conjuring.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 2 Unicorn cards, then search the deck for a Unicorn card and bring it directly into your Stable. Shuffle the deck. If this card is sacrificed or destroyed, you may search the deck for a Unicorn card and bring it directly into your Stable.",
+      "set": "Control",
+      "name": "Nine-Tailed Foxicorn",
+      "file": "images/Nine-Tailed_Foxicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, each player that does not have a Magical Unicorn card in their Stable must DISCARD a card.",
+      "set": "Control",
+      "name": "Nymphicorn",
+      "file": "images/Nymphicorn.png"
+    },
+    {
+      "text": "When any other player tries to play a Neigh card, you may DISCARD a card. If you do, return the Neigh card to that player's hand. That player cannot play a Neigh card this turn.",
+      "set": "Control",
+      "name": "Objection",
+      "file": "images/Objection.png"
+    },
+    {
+      "text": "All of your Unicorns are considered Otters. Cards that affect Unicorn cards do not affect your Otters.",
+      "set": "Control",
+      "name": "Otter Devastation",
+      "file": "images/Otter_Devastation.png"
+    },
+    {
+      "text": "Each time a player would DISCARD a card, that player may DRAW a card instead.",
+      "set": "Control",
+      "name": "Parallel Universicorn",
+      "file": "images/Parallel_Universicorn.png"
+    },
+    {
+      "text": "Each time a player would SACRIFICE a card, that player must SACRIFICE 2 cards instead.",
+      "set": "Control",
+      "name": "Patient Zero Unicorn",
+      "file": "images/Patient_Zero_Unicorn.png"
+    },
+    {
+      "text": "When this card leaves your Stable, you may choose any other player. Pull a card from that player's hand and add it to your hand.",
+      "set": "Control",
+      "name": "Pickpocket Unicorn",
+      "file": "images/Pickpocket_Unicorn.png"
+    },
+    {
+      "text": "When any other player tries to bring a Baby Unicorn card from the Nursery into their Stable, you may DISCARD a card. If you do, bring that *Baby Unicorn card directly into your Stable instead.",
+      "set": "Control",
+      "name": "Pied Pipercorn",
+      "file": "images/Pied_Pipercorn.png"
+    },
+    {
+      "text": "Flip one card at a time from the top of the deck into the discard pile until you find a Unicorn card. Bring that card directly into your Stable.",
+      "set": "Control",
+      "name": "Prospecting",
+      "file": "images/Prospecting.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD a card. Each time you DISCARD a card, you may choose up to 2 other players. Each of those players must also DISCARD a card.",
+      "set": "Chaos",
+      "name": "Puppetmaster Unicorn",
+      "file": "images/Puppetmaster_Unicorn.png"
+    },
+    {
+      "text": "DRAW 4 cards and DISCARD 4 cards.",
+      "set": "Control",
+      "name": "Quid Pro Quo",
+      "file": "images/Quid_Pro_Quo.png"
+    },
+    {
+      "text": "One Unicorn's trash is another Raccoonicorns's hat.",
+      "set": "Control",
+      "name": "Raccoonicorn",
+      "file": "images/Raccoonicorn.png"
+    },
+    {
+      "text": "Choose any other player, DESTROY a Unicorn card in that player's Stable. You and that player may each DRAW a card.",
+      "set": "Control",
+      "name": "Rainbow Bazooka",
+      "file": "images/Rainbow_Bazooka.png"
+    },
+    {
+      "text": "DRAW a card. If it's an Upgrade, Downgrade, or Unicorn card, bring that card directly into your Stable, then DRAW another card.",
+      "set": "Control",
+      "name": "Rainbow Bridge",
+      "file": "images/Rainbow_Bridge.png"
+    },
+    {
+      "text": "\"I'm not a fox, I just look foxy!\"",
+      "set": "Control",
+      "name": "Red Pandacorn",
+      "file": "images/Red_Pandacorn.png"
+    },
+    {
+      "text": "Play this card when an effect would DESTROY a Unicorn card. Choose the target of that destruction effect.",
+      "set": "Chaos",
+      "name": "Redirect",
+      "file": "images/Redirect.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may move a Downgrade card from your Stable to any other player's Stable.",
+      "set": "Control",
+      "name": "Regifting Unicorn",
+      "file": "images/Regifting_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE all Downgrade cards. You cannot play Magical Unicorn cards. If a Downgrade card enters your Stable, SACRIFICE this card.",
+      "set": "Control",
+      "name": "Restricted Area",
+      "file": "images/Restricted_Area.png"
+    },
+    {
+      "text": "Each time any other player destroys a Unicorn card in your Stable, you may DESTROY a Unicorn card that in that player's Stable.",
+      "set": "Control",
+      "name": "Retribution",
+      "file": "images/Retribution.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE it. If you do, DISCARD your hand and DRAW 5 cards.",
+      "set": "Control",
+      "name": "Sacrificial Lambicorn",
+      "file": "images/Sacrificial_Lambicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE a Unicorn card. When a Unicorn card in any other player's Stable would be sacrificed or returned to a player's hand, you may DISCARD up to 2 cards. If you DISCARD 1 card, add that card to your hand instead. If you DISCARD 2 cards, bring that card directly into your Stable.",
+      "set": "Chaos",
+      "name": "Shadow Unicorn",
+      "file": "images/Shadow_Unicorn.png"
+    },
+    {
+      "text": "Triggered effects of your Magical Unicorn cards do not activate.",
+      "set": "Control",
+      "name": "Slothicorn",
+      "file": "images/Slothicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DESTROY a Upgrade card. If you do, skip your Action Phase.",
+      "set": "Chaos",
+      "name": "Sniper Unicorn",
+      "file": "images/Sniper_Unicorn.png"
+    },
+    {
+      "text": "DISCARD any number of cards. Choose a number of players equal to the number of cards you discarded, then DESTROY a Unicorn card in each of their Stables.",
+      "set": "Control",
+      "name": "Spring Cleaning",
+      "file": "images/Spring_Cleaning.png"
+    },
+    {
+      "text": "When this card enters your Stable, choose any other player. That player must show you their hand.",
+      "set": "Control",
+      "name": "Spy Unicorn",
+      "file": "images/Spy_Unicorn.png"
+    },
+    {
+      "text": "\"Hi, hungry! I'm Dad!\"",
+      "set": "Control",
+      "name": "Suburban Dadicorn",
+      "file": "images/Suburban_Dadicorn.png"
+    },
+    {
+      "text": "\"Have you tried turning it off and then on again?\"",
+      "set": "Control",
+      "name": "Tech Supporticorn",
+      "file": "images/Tech_Supporticorn.png"
+    },
+    {
+      "text": "Return a card in any player's Stable to that player's hand and DRAW a card.",
+      "set": "Control",
+      "name": "Temporal Paradox",
+      "file": "images/Temporal_Paradox.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE a card. If a card in your Stable would be destroyed, you may DISCARD 2 cards instead.",
+      "set": "Control",
+      "name": "The Rad Scientist Unicorn",
+      "file": "images/The_Rad_Scientist_Unicorn.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a Magic card. Stop that card from being played and add it to your hand, then immediately play it.",
+      "set": "Chaos",
+      "name": "Absorb and Reflect",
+      "file": "images/Absorb_and_Reflect.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may move an Upgrade card from your Stable to any other player's Stable. If you do, STEAL an Upgrade card from that player's Stable.",
+      "set": "Control",
+      "name": "Academicorn",
+      "file": "images/Academicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose any player. DESTROY a Unicorn card in that player's Stable, then search the deck for a Unicorn card and bring it directly into that player's Stable.",
+      "set": "Control",
+      "name": "Alchemist Unicorn",
+      "file": "images/Alchemist_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE a Unicorn card. Search the deck for a Unicorn card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Control",
+      "name": "Ancestor Unicorn",
+      "file": "images/Ancestor_Unicorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Angelic Baby Unicorn",
+      "file": "images/Angelic_Baby_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE all Downgrade cards. You cannot play Magic cards. If a Downgrade card enters your Stable, SACRIFICE this card.",
+      "set": "Control",
+      "name": "Anti-Magic Bubble",
+      "file": "images/Anti-Magic_Bubble.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE 3 cards, if a card in your Stable would be sacrificed or destroyed, you may DISCARD a card instead. If this card is in your Stable at the beginning of your turn, you may DRAW and extra card.",
+      "set": "Control",
+      "name": "Archangel Unicorn",
+      "file": "images/Archangel_Unicorn.png"
+    },
+    {
+      "text": "SACRIFICE a Unicorn card, an Upgrade card, and a Downgrade card. Search the deck for a Unicorn card and an Upgrade card and bring them directly into your Stable.",
+      "set": "Control",
+      "name": "Archangel's Blessing",
+      "file": "images/Archangel's_Blessing.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Archangel Unicorn",
+      "file": "images/Baby_Archangel_Unicorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Bearicorn",
+      "file": "images/Baby_Bearicorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Belugacorn",
+      "file": "images/Baby_Belugacorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Nightmare Unicorn",
+      "file": "images/Baby_Nightmare_Unicorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Pegacorn",
+      "file": "images/Baby_Pegacorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Penguincorn",
+      "file": "images/Baby_Penguincorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Control",
+      "name": "Baby Slothicorn",
+      "file": "images/Baby_Slothicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, SACRIFICE a Magical Unicorn card. Search the deck for a Basic Unicorn card and bring it directly into your Stable if there is one. Shuffle the deck.",
+      "set": "Control",
+      "name": "Black Hole",
+      "file": "images/Black_Hole.png"
+    },
+    {
+      "text": "You cannot play Instant cards.",
+      "set": "Control",
+      "name": "Brain Freeze",
+      "file": "images/Brain_Freeze.png"
+    },
+    {
+      "text": "Play this card when any other player tries to DESTROY a card in your Stable. Stop the destruction effect and DRAW a card instead.",
+      "set": "Control",
+      "name": "Bulletproof Vest",
+      "file": "images/Bulletproof_Vest.png"
+    },
+    {
+      "text": "All of your Unicorns are considered Cats. Cards that affect Unicorn cards do not affect your Cats. Triggered effects of your Cats, do not trigger.",
+      "set": "Control",
+      "name": "Catastrophe",
+      "file": "images/Catastrophe.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD a card. This card can be played as an instant card.",
+      "set": "Control",
+      "name": "Chronocorn",
+      "file": "images/Chronocorn.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Pink)",
+      "file": "images/Baby_Unicorn_(Pink).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Orange)",
+      "file": "images/Baby_Unicorn_(Orange).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Yellow)",
+      "file": "images/Baby_Unicorn_(Yellow).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Green)",
+      "file": "images/Baby_Unicorn_(Green).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Blue)",
+      "file": "images/Baby_Unicorn_(Blue).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Purple)",
+      "file": "images/Baby_Unicorn_(Purple).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Black)",
+      "file": "images/Baby_Unicorn_(Black).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (White)",
+      "file": "images/Baby_Unicorn_(White).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Brown)",
+      "file": "images/Baby_Unicorn_(Brown).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Rainbow)",
+      "file": "images/Baby_Unicorn_(Rainbow).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Unicorn (Death)",
+      "file": "images/Baby_Unicorn_(Death).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Base",
+      "name": "Baby Narwhal",
+      "file": "images/Baby_Narwhal.png"
+    },
+    {
+      "text": "Beards are like, so hot.",
+      "set": "Base",
+      "name": "Basic Unicorn (Red)",
+      "file": "images/Basic_Unicorn_(Red).png"
+    },
+    {
+      "text": "Pumpkin spice is the pumpkin spice of life.",
+      "set": "Base",
+      "name": "Basic Unicorn (Orange)",
+      "file": "images/Basic_Unicorn_(Orange).png"
+    },
+    {
+      "text": "Dance like nobody's watching.",
+      "set": "Base",
+      "name": "Basic Unicorn (Yellow)",
+      "file": "images/Basic_Unicorn_(Yellow).png"
+    },
+    {
+      "text": "Vinyl records and mixtapes only.",
+      "set": "Base",
+      "name": "Basic Unicorn (Green)",
+      "file": "images/Basic_Unicorn_(Green).png"
+    },
+    {
+      "text": "Popped collars are for date nights only.",
+      "set": "Base",
+      "name": "Basic Unicorn (Blue)",
+      "file": "images/Basic_Unicorn_(Blue).png"
+    },
+    {
+      "text": "\ud83d\udc96\ud83d\ude4c\ud83d\udc85\ud83d\ude4c\ud83d\udc96\ud83d\udc81\ud83d\udc81\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "set": "Base",
+      "name": "Basic Unicorn (Indigo)",
+      "file": "images/Basic_Unicorn_(Indigo).png"
+    },
+    {
+      "text": "#nomakeup #nofilter #sunnies #shameless #selfie #basic #TGIF #unicornhairdontcare",
+      "set": "Base",
+      "name": "Basic Unicorn (Purple)",
+      "file": "images/Basic_Unicorn_(Purple).png"
+    },
+    {
+      "text": "This card has no special powers, but it sure is cute!",
+      "set": "Base",
+      "name": "Basic Unicorn (Narwhal)",
+      "file": "images/Basic_Unicorn_(Narwhal).png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DESTROY a Unicorn card. If you do, immediately skip to your End of Turn phase.",
+      "set": "Base",
+      "name": "Rhinocorn",
+      "file": "images/Rhinocorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.",
+      "set": "Base",
+      "name": "Extremely Fertile Unicorn",
+      "file": "images/Extremely_Fertile_Unicorn.png"
+    },
+    {
+      "text": "This card cannot be destroyed or otherwise affected by Magic cards.",
+      "set": "Base",
+      "name": "Magical Kittencorn",
+      "file": "images/Magical_Kittencorn.png"
+    },
+    {
+      "text": "If this card is sacrificed or destroyed, you may DESTROY a Unicorn card.",
+      "set": "Base",
+      "name": "Stabby The Unicorn",
+      "file": "images/Stabby_The_Unicorn.png"
+    },
+    {
+      "text": "Each time any player begins their turn, move this card to that player's Stable. This card cannot be sacrificed or destroyed.",
+      "set": "Base",
+      "name": "Puppicorn",
+      "file": "images/Puppicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may bring a Basic Unicorn card from your hand directly into your Stable.",
+      "set": "Base",
+      "name": "Rainbow Unicorn",
+      "file": "images/Rainbow_Unicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD a Unicorn card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable, then immediately skip to your End of Turn phase.",
+      "set": "Apocalypse",
+      "name": "Zombie Unicorn",
+      "file": "images/Zombie_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, each player must SACRIFICE a Unicorn card.",
+      "set": "Base",
+      "name": "Extremely Destructive Unicorn",
+      "file": "images/Extremely_Destructive_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may SACRIFICE or DESTROY an Upgrade or Downgrade card.",
+      "set": "Base",
+      "name": "Chainsaw Unicorn",
+      "file": "images/Chainsaw_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, each player must DISCARD a card. Shuffle the discard pile into the deck.",
+      "set": "Base",
+      "name": "Llamacorn",
+      "file": "images/Llamacorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, choose any player. Pull a card from that player's hand.",
+      "set": "Base",
+      "name": "Americorn",
+      "file": "images/Americorn.png"
+    },
+    {
+      "text": "This card counts for 2 Unicorns. You cannot play any Instant cards.",
+      "set": "Base",
+      "name": "Ginormous Unicorn",
+      "file": "images/Ginormous_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, STEAL a Unicorn card. If this card leaves your Stable, return that Unicorn card to the Stable from which you stole it.",
+      "set": "Base",
+      "name": "Seductive Unicorn",
+      "file": "images/Seductive_Unicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE this card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable.",
+      "set": "Base",
+      "name": "Angel Unicorn",
+      "file": "images/Angel_Unicorn.png"
+    },
+    {
+      "text": "Basic Unicorn cards cannot enter any other player's Stable.",
+      "set": "Base",
+      "name": "Queen Bee Unicorn",
+      "file": "images/Queen_Bee_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, DRAW a card. If this card would be sacrificed or destroyed, return it to your hand instead.",
+      "set": "Base",
+      "name": "Greedy Flying Unicorn",
+      "file": "images/Greedy_Flying_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose any player. That player must DISCARD a card. If this card would be sacrificed or destroyed, return it to your hand instead.",
+      "set": "Base",
+      "name": "Annoying Flying Unicorn",
+      "file": "images/Annoying_Flying_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose a Magic card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.",
+      "set": "Base",
+      "name": "Magical Flying Unicorn",
+      "file": "images/Magical_Flying_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose an Instant card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.",
+      "set": "Base",
+      "name": "Swift Flying Unicorn",
+      "file": "images/Swift_Flying_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose a Unicorn card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.",
+      "set": "Base",
+      "name": "Majestic Flying Unicorn",
+      "file": "images/Majestic_Flying_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, DISCARD a card. If this card is sacrificed or destroyed, bring it directly back into your Stable if you have at least 1 card in your hand.",
+      "set": "Apocalypse",
+      "name": "Unicorn Phoenix",
+      "file": "images/Unicorn_Phoenix.png"
+    },
+    {
+      "text": "When this card enters your Stable, DRAW 2 cards and DISCARD a card.",
+      "set": "Base",
+      "name": "Unicorn On The Cob",
+      "file": "images/Unicorn_On_The_Cob.png"
+    },
+    {
+      "text": "If 1 of your Unicorn cards would be destroyed, you may SACRIFICE this card instead.",
+      "set": "Base",
+      "name": "Black Knight Unicorn",
+      "file": "images/Black_Knight_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may SACRIFICE this card. If you do, DESTROY a Unicorn card.",
+      "set": "Base",
+      "name": "Shark With A Horn",
+      "file": "images/Shark_With_A_Horn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may search the deck for a Downgrade card and add it to your hand. Shuffle the deck.",
+      "set": "Base",
+      "name": "Shabby The Narwhal",
+      "file": "images/Shabby_The_Narwhal.png"
+    },
+    {
+      "text": "When this card enters your Stable, SACRIFICE all Downgrade cards.",
+      "set": "Base",
+      "name": "Narwhal Torpedo",
+      "file": "images/Narwhal_Torpedo.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may STEAL an Upgrade card.",
+      "set": "Base",
+      "name": "Alluring Narwhal",
+      "file": "images/Alluring_Narwhal.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may choose any player. Return a card in that player's Stable to their hand.",
+      "set": "Base",
+      "name": "Mermaid Unicorn",
+      "file": "images/Mermaid_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may search the deck for an Upgrade card and add it to your hand. Shuffle the deck.",
+      "set": "Base",
+      "name": "Classy Narwhal",
+      "file": "images/Classy_Narwhal.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may search the deck for a card with \"Narwhal\" in its name and add it to your hand. Shuffle the deck.",
+      "set": "Base",
+      "name": "The Great Narwhal",
+      "file": "images/The_Great_Narwhal.png"
+    },
+    {
+      "text": "DESTROY a Unicorn card.",
+      "set": "Base",
+      "name": "Unicorn Poison",
+      "file": "images/Unicorn_Poison.png"
+    },
+    {
+      "text": "Choose any player. Return a card in that player's Stable to their hand. That player must DISCARD a card.",
+      "set": "Base",
+      "name": "Back Kick",
+      "file": "images/Back_Kick.png"
+    },
+    {
+      "text": "DRAW 2 cards and DISCARD 3 cards, then take another turn.",
+      "set": "Base",
+      "name": "Change Of Luck",
+      "file": "images/Change_Of_Luck.png"
+    },
+    {
+      "text": "Return a card in each player's Stable to that player's hand.",
+      "set": "Base",
+      "name": "Glitter Tornado",
+      "file": "images/Glitter_Tornado.png"
+    },
+    {
+      "text": "Move a Unicorn card in your Stable to any other player's Stable, then STEAL a Unicorn card from that player's Stable.",
+      "set": "Base",
+      "name": "Unicorn Swap",
+      "file": "images/Unicorn_Swap.png"
+    },
+    {
+      "text": "Move an Upgrade or Downgrade card from any player's Stable to any other player's Stable.",
+      "set": "Base",
+      "name": "Re-target",
+      "file": "images/Re-target.png"
+    },
+    {
+      "text": "Trade hands with any other player.",
+      "set": "Base",
+      "name": "Unfair Bargain",
+      "file": "images/Unfair_Bargain.png"
+    },
+    {
+      "text": "SACRIFICE a card, then DESTROY 2 cards.",
+      "set": "Base",
+      "name": "Two-for-one",
+      "file": "images/Two-for-one.png"
+    },
+    {
+      "text": "Choose any player. Move all of that player's Unicorn cards to the discard pile without triggering any of their effects, then bring the same number of Baby Unicorn cards from the Nursery directly into that player's Stable.",
+      "set": "Base",
+      "name": "Unicorn Shrinkray",
+      "file": "images/Unicorn_Shrinkray.png"
+    },
+    {
+      "text": "SACRIFICE or DESTROY an Upgrade or Downgrade card.",
+      "set": "Base",
+      "name": "Targeted Destruction",
+      "file": "images/Targeted_Destruction.png"
+    },
+    {
+      "text": "Each player must DISCARD a card. Shuffle the discard pile into the deck.",
+      "set": "Base",
+      "name": "Mystical Vortex",
+      "file": "images/Mystical_Vortex.png"
+    },
+    {
+      "text": "DRAW 3 cards and DISCARD a card.",
+      "set": "Base",
+      "name": "Good Deal",
+      "file": "images/Good_Deal.png"
+    },
+    {
+      "text": "Shuffle this card, your hand, and the discard pile into the deck. DRAW 5 cards.",
+      "set": "Base",
+      "name": "Shake Up",
+      "file": "images/Shake_Up.png"
+    },
+    {
+      "text": "Choose any player and look at that player's hand. Choose a card from that player's hand and add it to your hand.",
+      "set": "Base",
+      "name": "Blatant Thievery",
+      "file": "images/Blatant_Thievery.png"
+    },
+    {
+      "text": "Each player must SACRIFICE all Upgrade and Downgrade cards. Shuffle the discard pile into the deck.",
+      "set": "Base",
+      "name": "Reset Button",
+      "file": "images/Reset_Button.png"
+    },
+    {
+      "text": "This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may bring a Basic Unicorn card from your hand directly into your Stable.",
+      "set": "Base",
+      "name": "Rainbow Mane",
+      "file": "images/Rainbow_Mane.png"
+    },
+    {
+      "text": "This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card.",
+      "set": "Base",
+      "name": "Extra Tail",
+      "file": "images/Extra_Tail.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card. If you do, DESTROY a card.",
+      "set": "Base",
+      "name": "Glitter Bomb",
+      "file": "images/Glitter_Bomb.png"
+    },
+    {
+      "text": "Cards you play cannot be Neigh'd.",
+      "set": "Base",
+      "name": "Yay",
+      "file": "images/Yay.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may STEAL a Unicorn card. At the end of your turn, return that Unicorn card to the Stable from which you stole it.",
+      "set": "Base",
+      "name": "Unicorn Lasso",
+      "file": "images/Unicorn_Lasso.png"
+    },
+    {
+      "text": "Your Unicorn cards cannot be destroyed.",
+      "set": "Base",
+      "name": "Rainbow Aura",
+      "file": "images/Rainbow_Aura.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may play 2 cards during your Action phase.",
+      "set": "Base",
+      "name": "Double Dutch",
+      "file": "images/Double_Dutch.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DISCARD 2 Unicorn cards. If you do, bring a Unicorn card directly from the discard pile into your Stable.",
+      "set": "Base",
+      "name": "Summoning Ritual",
+      "file": "images/Summoning_Ritual.png"
+    },
+    {
+      "text": "Each time a Unicorn card enters or leaves your stable, DISCARD a card.",
+      "set": "Base",
+      "name": "Barbed Wire",
+      "file": "images/Barbed_Wire.png"
+    },
+    {
+      "text": "All of your Unicorns are considered Pandas. Cards that affect Unicorn cards do not affect your Pandas.",
+      "set": "Base",
+      "name": "Pandamonium",
+      "file": "images/Pandamonium.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, SACRIFICE a Unicorn card, then DRAW a card.",
+      "set": "Base",
+      "name": "Sadistic Ritual",
+      "file": "images/Sadistic_Ritual.png"
+    },
+    {
+      "text": "You cannot play Instant cards.",
+      "set": "Base",
+      "name": "Slowdown",
+      "file": "images/Slowdown.png"
+    },
+    {
+      "text": "Your hand must be visible to all players at all times.",
+      "set": "Base",
+      "name": "Nanny Cam",
+      "file": "images/Nanny_Cam.png"
+    },
+    {
+      "text": "You cannot play Upgrade cards.",
+      "set": "Base",
+      "name": "Broken Stable",
+      "file": "images/Broken_Stable.png"
+    },
+    {
+      "text": "Triggered effects of your Unicorn cards do not activate.",
+      "set": "Base",
+      "name": "Blinding Light",
+      "file": "images/Blinding_Light.png"
+    },
+    {
+      "text": "If at any time you have more than 5 Unicorns in your Stable, SACRIFICE a Unicorn card.",
+      "set": "Base",
+      "name": "Tiny Stable",
+      "file": "images/Tiny_Stable.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile.",
+      "set": "Base",
+      "name": "Neigh",
+      "file": "images/Neigh.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile. This card cannot be Neigh'd.",
+      "set": "Base",
+      "name": "Super Neigh",
+      "file": "images/Super_Neigh.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may SACRIFICE a Unicorn card. If you do, DESTROY a Unicorn card.",
+      "set": "Apocalypse",
+      "name": "Unicorn Of Death",
+      "file": "images/Unicorn_Of_Death.png"
+    },
+    {
+      "text": "When this card enters your Stable, each player must DISCARD their hand.",
+      "set": "Apocalypse",
+      "name": "Unicorn Of Pestilence",
+      "file": "images/Unicorn_Of_Pestilence.png"
+    },
+    {
+      "text": "When this card enters your Stable, choose any number of players. DESTROY a Unicorn card in each of their Stables. Each of the chosen players may then DESTROY a Unicorn card in your Stable.",
+      "set": "Apocalypse",
+      "name": "Unicorn Of War",
+      "file": "images/Unicorn_Of_War.png"
+    },
+    {
+      "text": "Each player has a hand limit of 2 cards.",
+      "set": "Apocalypse",
+      "name": "Unicorn Of Famine",
+      "file": "images/Unicorn_Of_Famine.png"
+    },
+    {
+      "text": "SACRIFICE 4 Unicorn cards, then search the deck for 4 Unicorn cards and bring them directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Four Unicorns of the Apocalypse",
+      "file": "images/Four_Unicorns_of_the_Apocalypse.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an \"Angel Unicorn\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Heavenly Smite",
+      "file": "images/Heavenly_Smite.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an \"Extremely Fertile Unicorn\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Overpopulation",
+      "file": "images/Overpopulation.png"
+    },
+    {
+      "text": "SACRIFICE any number of cards, then DESTROY the same number of cards.",
+      "set": "Apocalypse",
+      "name": "Plague Of Death",
+      "file": "images/Plague_Of_Death.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a \"Kittencorn\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Storm Of Cuteness",
+      "file": "images/Storm_Of_Cuteness.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a \"Unicorn Phoenix\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Fire And Brimstone",
+      "file": "images/Fire_And_Brimstone.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a \"Zombie Unicorn\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Zombie Apocalypse",
+      "file": "images/Zombie_Apocalypse.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for a \"Llamacorn\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Llamapocalypse",
+      "file": "images/Llamapocalypse.png"
+    },
+    {
+      "text": "SACRIFICE all of your Unicorn cards, then DESTROY a Unicorn card in each other player's Stable. Search the deck for an \"Extremely Destructive Unicorn\" card and bring it directly into your Stable. Shuffle the deck.",
+      "set": "Apocalypse",
+      "name": "Ultimate Destruction",
+      "file": "images/Ultimate_Destruction.png"
+    },
+    {
+      "text": "At least it's not a lower back tattoo...",
+      "set": "Dragons",
+      "name": "Unicorn With A Dragon Tattoo",
+      "file": "images/Unicorn_With_A_Dragon_Tattoo.png"
+    },
+    {
+      "text": "It's not a costume. It's a way of life.",
+      "set": "Dragons",
+      "name": "Dragon Cosplay Unicorn",
+      "file": "images/Dragon_Cosplay_Unicorn.png"
+    },
+    {
+      "text": "As long as this card is in your Stable, your Unicorns cannot be destroyed or affected by any card with \"Dragon\" in its name.",
+      "set": "Dragons",
+      "name": "Dragon Slayer Unicorn",
+      "file": "images/Dragon_Slayer_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may search the deck for a card with \"Dragon\" in its name. Add it to your hand, then shuffle the deck.",
+      "set": "Dragons",
+      "name": "Dragon Tamer Unicorn",
+      "file": "images/Dragon_Tamer_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may move an UPGRADE or DOWNGRADE card from any player's Stable to another player's Stable.",
+      "set": "Dragons",
+      "name": "Dragon Rider Unicorn",
+      "file": "images/Dragon_Rider_Unicorn.png"
+    },
+    {
+      "text": "If this card leaves your Stable, you may DESTROY a Unicorn.",
+      "set": "Dragons",
+      "name": "Dragon Unicorn",
+      "file": "images/Dragon_Unicorn.png"
+    },
+    {
+      "text": "DESTROY a Unicorn",
+      "set": "Dragons",
+      "name": "Dragon\u2019s Breath",
+      "file": "images/Dragon\u2019s_Breath.png"
+    },
+    {
+      "text": "SACRIFICE or DESTROY an Upgrade or Downgrade card.",
+      "set": "Dragons",
+      "name": "Dragon\u2019s Fire",
+      "file": "images/Dragon\u2019s_Fire.png"
+    },
+    {
+      "text": "Each player must SACRIFICE all Upgrade and Downgrade cards.",
+      "set": "Dragons",
+      "name": "Dragon-scorched Stables",
+      "file": "images/Dragon-scorched_Stables.png"
+    },
+    {
+      "text": "Search the deck for a Magic card. Play it immediately, then shuffle the deck.",
+      "set": "Dragons",
+      "name": "Dragon Kiss",
+      "file": "images/Dragon_Kiss.png"
+    },
+    {
+      "text": "As long as this card is in your Stable, Downgrades in your Stable have no effect.",
+      "set": "Dragons",
+      "name": "Dragon\u2019s Blessing",
+      "file": "images/Dragon\u2019s_Blessing.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you must DISCARD a card.",
+      "set": "Dragons",
+      "name": "Dragon\u2019s Curse",
+      "file": "images/Dragon\u2019s_Curse.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you must shuffle a Unicorn from your stable into the deck, then DRAW an extra card.",
+      "set": "Dragons",
+      "name": "Dragon Skies",
+      "file": "images/Dragon_Skies.png"
+    },
+    {
+      "text": "Play this card when any player tries to play a card. Stop that player's card from coming into play and send it to the discard pile instead.",
+      "set": "Dragons",
+      "name": "Neigh, Foul Beast",
+      "file": "images/Neigh,_Foul_Beast.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "NSFW",
+      "name": "Baby Unicorn (Shotgun)",
+      "file": "images/Baby_Unicorn_(Shotgun).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "NSFW",
+      "name": "Baby Unicorn (Grenade)",
+      "file": "images/Baby_Unicorn_(Grenade).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "NSFW",
+      "name": "Baby Unicorn (Upside Down)",
+      "file": "images/Baby_Unicorn_(Upside_Down).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "NSFW",
+      "name": "Baby Unicorn (Garbage)",
+      "file": "images/Baby_Unicorn_(Garbage).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "NSFW",
+      "name": "Baby Unicorn (Snake)",
+      "file": "images/Baby_Unicorn_(Snake).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "NSFW",
+      "name": "Baby Unicorn (Cannibal)",
+      "file": "images/Baby_Unicorn_(Cannibal).png"
+    },
+    {
+      "text": "#livingfortheweekend",
+      "set": "NSFW",
+      "name": "Wasted White Unicorn",
+      "file": "images/Wasted_White_Unicorn.png"
+    },
+    {
+      "text": "Sometimes a horse just needs to feel a little special.",
+      "set": "NSFW",
+      "name": "Horse With A Dildo",
+      "file": "images/Horse_With_A_Dildo.png"
+    },
+    {
+      "text": "It's 4:20 somewhere.",
+      "set": "NSFW",
+      "name": "Stoner Unicorn",
+      "file": "images/Stoner_Unicorn.png"
+    },
+    {
+      "text": "The single life.",
+      "set": "NSFW",
+      "name": "Single Unicorn",
+      "file": "images/Single_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your stable, you may search the deck for a \"twinkicorn\" card. add it to your hand, then shuffle the deck.",
+      "set": "NSFW",
+      "name": "Bear Daddy Unicorn",
+      "file": "images/Bear_Daddy_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your stable, you may search the deck for a \"Bear daddy unicorn\" card. add it to your hand, then shuffle the deck.",
+      "set": "NSFW",
+      "name": "Twinkicorn",
+      "file": "images/Twinkicorn.png"
+    },
+    {
+      "text": "When this card enters your stable, you may look at the top three cards in the deck, then return them in the same order.",
+      "set": "NSFW",
+      "name": "Straight But Curious Unicorn",
+      "file": "images/Straight_But_Curious_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your stable, each player must sacrifice a unicorn.",
+      "set": "NSFW",
+      "name": "Cult Leader Unicorn",
+      "file": "images/Cult_Leader_Unicorn.png"
+    },
+    {
+      "text": "You must have a basic unicorn in your stable to play this card. If this card is in your stable at the beginning of your turn, you choose any player. that player must discard a card.",
+      "set": "NSFW",
+      "name": "The Bitchiest Unicorn",
+      "file": "images/The_Bitchiest_Unicorn.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may trade it for a Unicorn in any player's Stable.",
+      "set": "NSFW",
+      "name": "Polyamorous Unicorn",
+      "file": "images/Polyamorous_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your stable, move a basic unicorn from any player's stable to your stable. If this card leaves your stable, move the unicorn back to its original stable.",
+      "set": "NSFW",
+      "name": "Naked Narwhal",
+      "file": "images/Naked_Narwhal.png"
+    },
+    {
+      "text": "When this card enters your stable, move a baby unicorn from any player's stable to your stable. If this card leaves your stable, move the unicorn back to its original stable.",
+      "set": "NSFW",
+      "name": "Free Candy Unicorn",
+      "file": "images/Free_Candy_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your stable, move a unicorn from any player's stable to your stable. If this card leaves your stable, move the unicorn back to its original stable. If this card is sacrificed or destroyed, return it to your hand.",
+      "set": "NSFW",
+      "name": "Horny Flying Unicorn",
+      "file": "images/Horny_Flying_Unicorn.png"
+    },
+    {
+      "text": "Choose any player. that player must discard a card. give another player a card from their hand, then destroy a unicorn.",
+      "set": "NSFW",
+      "name": "Fuck, Marry, Kill",
+      "file": "images/Fuck,_Marry,_Kill.png"
+    },
+    {
+      "text": "Serach the deck for a NSFW card. add it to your hand, then shuffle the deck.",
+      "set": "NSFW",
+      "name": "Dirty Mind",
+      "file": "images/Dirty_Mind.png"
+    },
+    {
+      "text": "Choose any player. That player must skip their next turn.",
+      "set": "NSFW",
+      "name": "Unicorn Hangover",
+      "file": "images/Unicorn_Hangover.png"
+    },
+    {
+      "text": "Draw a card for each unicorn over three in your stable.",
+      "set": "NSFW",
+      "name": "Unicorgy",
+      "file": "images/Unicorgy.png"
+    },
+    {
+      "text": "Each player must sacrifice a card and discard their entire hand. Shuffle the discard pile into the deck, then deal five cards to each player.",
+      "set": "NSFW",
+      "name": "Rainbow Shitstorm",
+      "file": "images/Rainbow_Shitstorm.png"
+    },
+    {
+      "text": "Each player must return a baby unicorn from their stable to the nursery.",
+      "set": "NSFW",
+      "name": "Safe Sex",
+      "file": "images/Safe_Sex.png"
+    },
+    {
+      "text": "If this card is in your stable at the beginning of your turn, you may take a card at random from any player's hand instead of drawing a card.",
+      "set": "NSFW",
+      "name": "Pony Play",
+      "file": "images/Pony_Play.png"
+    },
+    {
+      "text": "If this card is in your stable at the beginning of your turn, you may move a unicorn from any player's stable to another player's stable. you cannot move the unicorn into your own stable.",
+      "set": "NSFW",
+      "name": "Dominatrix Whip",
+      "file": "images/Dominatrix_Whip.png"
+    },
+    {
+      "text": "If one of your unicorns would be sacrificed or destroyed, you may sacrifice this card instead.",
+      "set": "NSFW",
+      "name": "Blow Up Unicorn",
+      "file": "images/Blow_Up_Unicorn.png"
+    },
+    {
+      "text": "If this card is in your stable at the beginning of your turn, discard a card.",
+      "set": "NSFW",
+      "name": "Autoerotic Asphyxiation",
+      "file": "images/Autoerotic_Asphyxiation.png"
+    },
+    {
+      "text": "As long as this card is in your stable, your hand limit is three cards.",
+      "set": "NSFW",
+      "name": "Unicorn Butt Plug",
+      "file": "images/Unicorn_Butt_Plug.png"
+    },
+    {
+      "text": "Play this card when any player tries to play a card. Stop that player's card from coming into play and send it to the discard pile instead.",
+      "set": "NSFW",
+      "name": "Hell Neigh!",
+      "file": "images/Hell_Neigh!.png"
+    },
+    {
+      "text": "Play this card when any player tries to play a card. Stop that player's card from coming into play and send it to the discard pile instead.",
+      "set": "NSFW",
+      "name": "Neigh, Bitch!",
+      "file": "images/Neigh,_Bitch!.png"
+    },
+    {
+      "text": "Play this card when any player tries to play a card. Stop that player's card from coming into play and send it to the discard pile instead. That player must discard a card.",
+      "set": "NSFW",
+      "name": "Neigh, Motherfucker!",
+      "file": "images/Neigh,_Motherfucker!.png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Rainbow Sprinkles",
+      "name": "Baby Unicorn (Sparkles)",
+      "file": "images/Baby_Unicorn_(Sparkles).png"
+    },
+    {
+      "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+      "set": "Rainbow Sprinkles",
+      "name": "Baby Unicorn (Flowers)",
+      "file": "images/Baby_Unicorn_(Flowers).png"
+    },
+    {
+      "text": "Ice cream always saves the day!",
+      "set": "Rainbow Sprinkles",
+      "name": "Horse With An Ice Cream Cone",
+      "file": "images/Horse_With_An_Ice_Cream_Cone.png"
+    },
+    {
+      "text": "Look, Mom! I'm a unicorn!",
+      "set": "Rainbow Sprinkles",
+      "name": "Innocent Bunnicorn",
+      "file": "images/Innocent_Bunnicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, each player must choose a card from their hand if they have at least 1 card in their hand and pass it to the player on their left.",
+      "set": "Rainbow Sprinkles",
+      "name": "The Magical Pugicorn",
+      "file": "images/The_Magical_Pugicorn.png"
+    },
+    {
+      "text": "This card cannot be destroyed by triggered card effects.",
+      "set": "Rainbow Sprinkles",
+      "name": "The Tiniest Unicorn",
+      "file": "images/The_Tiniest_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, each player must SACRIFICE a Unicorn card, then DRAW a card.",
+      "set": "Rainbow Sprinkles",
+      "name": "Cotton Candy Llamacorn",
+      "file": "images/Cotton_Candy_Llamacorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, choose any number of players. DRAW cards equal to the number of chosen players. Each of those players may DRAW a card.",
+      "set": "Rainbow Sprinkles",
+      "name": "Unicorn Rainbow Princess",
+      "file": "images/Unicorn_Rainbow_Princess.png"
+    },
+    {
+      "text": "When this card enters your Stable, you may bring an Upgrade card from your hand directly into your Stable.",
+      "set": "Rainbow Sprinkles",
+      "name": "Glitter Unicorn",
+      "file": "images/Glitter_Unicorn.png"
+    },
+    {
+      "text": "When this card enters your Stable, each player must SACRIFICE a card. If this card would be sacrificed or destroyed, return it to your hand instead.",
+      "set": "Rainbow Sprinkles",
+      "name": "Adorable Flying Unicorn",
+      "file": "images/Adorable_Flying_Unicorn.png"
+    },
+    {
+      "text": "Choose any player. Move up to 3 Unicorn cards from that player's Stable to the discard pile without triggering any of their effects, then bring the same number of Baby Unicorn cards from the Nursery directly into that player's Stable.",
+      "set": "Rainbow Sprinkles",
+      "name": "A Cute Attack",
+      "file": "images/A_Cute_Attack.png"
+    },
+    {
+      "text": "Choose a Unicorn from each player's Stable. Shuffle them together, then deal them out face down. Those unicorns come directly into play in the new players' Stables.",
+      "set": "Rainbow Sprinkles",
+      "name": "Sharing Is Caring",
+      "file": "images/Sharing_Is_Caring.png"
+    },
+    {
+      "text": "Choose any player. That player must skip their next turn.",
+      "set": "Rainbow Sprinkles",
+      "name": "Unicorn Nap",
+      "file": "images/Unicorn_Nap.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may bring a Baby Unicorn card from the Nursery directly into your Stable. If you do, skip your Action phase.",
+      "set": "Rainbow Sprinkles",
+      "name": "Special Delivery",
+      "file": "images/Special_Delivery.png"
+    },
+    {
+      "text": "If this card is in your Stable at the beginning of your turn, you may DRAW 3 cards. If you do, immediately skip to your End of Turn phase.",
+      "set": "Rainbow Sprinkles",
+      "name": "Rainbow Sprinkles",
+      "file": "images/Rainbow_Sprinkles.png"
+    },
+    {
+      "text": "All of your Upgrade cards affect each player's Stable.",
+      "set": "Rainbow Sprinkles",
+      "name": "Cupcakes For Everyone",
+      "file": "images/Cupcakes_For_Everyone.png"
+    },
+    {
+      "text": "Your hand limit is 3 cards.",
+      "set": "Rainbow Sprinkles",
+      "name": "Tiny Hooves",
+      "file": "images/Tiny_Hooves.png"
+    },
+    {
+      "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile. Both you and that player may draw a card.",
+      "set": "Rainbow Sprinkles",
+      "name": "Neigh, Thank You",
+      "file": "images/Neigh,_Thank_You.png"
+    }
+  ]
+}
