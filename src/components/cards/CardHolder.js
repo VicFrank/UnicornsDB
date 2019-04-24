@@ -1,43 +1,22 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Grid from "@material-ui/core/Grid";
 import Pagination from "material-ui-flat-pagination";
 import { withStyles } from "@material-ui/core/styles";
 import { unstable_useMediaQuery as useMediaQuery } from "@material-ui/core/useMediaQuery";
+import SwipeableViews from "react-swipeable-views";
 
 import Card from "./Card";
 
 const styles = theme => ({
-  root: {
-    overflow: "hidden"
-  },
-  slideLeft: {
-    animation: ".4s ease-out 0s 1 slideInFromLeft"
-  },
-  "@keyframes slideInFromLeft": {
-    "0%": {
-      transform: "translateX(-100%)"
-    },
-    "100%": {
-      transform: "translateX(0%)"
-    }
-  },
-  slideRight: {
-    animation: ".4s ease-out 0s 1 slideInFromRight"
-  },
-  "@keyframes slideInFromRight": {
-    "0%": {
-      transform: "translateX(200%)"
-    },
-    "100%": {
-      transform: "translateX(0%)"
-    }
+  grids: {
+    overflow: "hidden !important"
   }
 });
 
 function CardHolder(props) {
   const { classes } = props;
 
-  const [offset, setOffset] = useState(0);
+  const [index, setIndex] = useState(0);
   // const [slideClass, setSlideClass] = useState(classes.slideLeft);
   const total = props.cards.length;
   const medium = useMediaQuery("(max-width:1000px)");
@@ -51,31 +30,49 @@ function CardHolder(props) {
     limit = 4;
   }
 
-  const getCardsToDisplay = () => {
-    return props.cards.slice(offset, offset + limit);
-  };
+  useEffect(() => {
+    setIndex(0);
+  }, [props.cards]);
 
-  const cards = getCardsToDisplay().map(data => (
-    <Grid item xs={"auto"} key={data.name}>
-      <Card path={data.file} name={data.name} />
-    </Grid>
-  ));
+  const cards = props.cards
+    .map(data => (
+      <Grid item xs={"auto"} key={data.name}>
+        <Card path={data.file} name={data.name} />
+      </Grid>
+    ))
+    .reduce((r, element, index) => {
+      index % limit === 0 && r.push([]);
+      r[r.length - 1].push(element);
+      return r;
+    }, [])
+    .map(content => (
+      <Grid container justify="center" spacing={16} key={content[0]["key"]}>
+        {content}
+      </Grid>
+    ));
 
   const handleClick = clickedOffset => {
-    // const newClass =
-    // clickedOffset > offset ? classes.slideRight : classes.slideLeft;
-    // setSlideClass(newClass);
-    setOffset(clickedOffset);
+    console.log(clickedOffset / limit);
+    setIndex(clickedOffset / limit);
+  };
+
+  const handleChangeIndex = index => {
+    setIndex(index);
   };
 
   return (
-    <div className={classes.root}>
-      <Grid container justify="center" spacing={16}>
+    <div>
+      <SwipeableViews
+        index={index}
+        onChangeIndex={handleChangeIndex}
+        slideClassName={classes.grids}
+        enableMouseEvents={true}
+      >
         {cards}
-      </Grid>
+      </SwipeableViews>
       <Pagination
         limit={limit}
-        offset={offset}
+        offset={index * limit}
         total={total}
         onClick={(e, clickedOffset) => handleClick(clickedOffset)}
       />
